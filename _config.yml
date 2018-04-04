@@ -3,3 +3,7 @@ description: Devking's tech blog.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+
+github:
+  zip_url: http://www.naver.com
+  tar_url: http://www.daum.net
