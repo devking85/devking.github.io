@@ -8,6 +8,7 @@ baseurl: ""
 github:
   zip_url: http://www.naver.com
   tar_url: http://www.daum.net
+timezone: Asia/Seoul
 
 # Build settings
 markdown: kramdown
