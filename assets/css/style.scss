@@ -26,15 +26,20 @@
 }
 
 .blog-index {
-	margin-left: 0;
-	margin-top: 0;
-	margin-right: 0;
-	margin-bottom: 0;
+	padding: 0;
+	margin: 0;
+}
+
+.post-content{
+	padding: 0;
+	margin: 0;
 }
 
 .post-title {
   margin-top: 0;
   margin-bottom: 0.1rem;
+
+  text-align: center;
 
   @include large {
     font-size: 3.25rem;

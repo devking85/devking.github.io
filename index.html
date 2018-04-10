@@ -3,7 +3,9 @@ layout: default
 ---
 
 <div class="blog-index">
-{% assign post = site.posts.first %}
-{% assign content = post.content %}
-{% include index_content.html %}
+	<!-- index 의 post, content 변수를 할당하기 -->
+	{% assign post = site.posts.first %}
+	{% assign content = post.content %}
+	<!-- 다음 파일 불러오기 -->
+	{% include index_content.html %}
 </div>
