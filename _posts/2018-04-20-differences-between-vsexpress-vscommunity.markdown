@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Differences between Visual Studio Community Edition and Express Editions. 
 ---
 
